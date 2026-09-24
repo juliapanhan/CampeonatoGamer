@@ -27,3 +27,4 @@ No terminal, digite **uma linha por vez**;
 ```"# CampeonatoGamer" 
 "# CampeonatoGamer" 
 "# CampeonatoGamer" 
+"# CampeonatoGamer" 
